@@ -1,0 +1,5 @@
+lib/* usr/lib/forever/
+node_modules/* usr/lib/forever/node_modules/
+package.json usr/lib/forever/
+
+bin/* usr/bin/

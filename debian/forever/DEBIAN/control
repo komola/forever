@@ -1,0 +1,11 @@
+Package: forever
+Version: 0.7.0-7
+Architecture: amd64
+Maintainer: root <root@komola-lockdown>
+Installed-Size: 5488
+Depends: nodejs-legacy
+Section: unknown
+Priority: extra
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
